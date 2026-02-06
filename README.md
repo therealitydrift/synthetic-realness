@@ -1,4 +1,4 @@
-# synthetic-realness
+# Synthetic Realness
 
 Synthetic Realness is the experience of environments that feel emotionally or
 socially real while being structurally optimized, simulated, or incentive-driven
